@@ -60,7 +60,6 @@ double MainWindow::cross(const QPointF &o, const QPointF &a, const QPointF &b)
     return (a.x()-o.x())*(b.y()-o.y()) - (a.y()-o.y())*(b.x()-o.x());
 }
 
-// Fast convex hull (Monotone Chain)
 QVector<QPointF> MainWindow::convexHull(const QVector<QPointF> &pts, long long &iterations)
 {
     iterations = 0;
@@ -92,7 +91,6 @@ QVector<QPointF> MainWindow::convexHull(const QVector<QPointF> &pts, long long &
     return lower + upper;
 }
 
-// Slow convex hull (Brute Force)
 QVector<QPointF> MainWindow::slowConvexHull(const QVector<QPointF> &pts, long long &iterations)
 {
     iterations = 0;
@@ -118,7 +116,6 @@ QVector<QPointF> MainWindow::slowConvexHull(const QVector<QPointF> &pts, long lo
         }
     }
 
-    // Hapus duplikat + rapikan dengan convexHull cepat
     std::sort(hull.begin(), hull.end(), [](const QPointF &a, const QPointF &b){
         return (a.x()==b.x()) ? a.y()<b.y() : a.x()<b.x();
     });
