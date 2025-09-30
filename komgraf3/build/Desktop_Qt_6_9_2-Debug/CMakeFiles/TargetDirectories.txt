@@ -1,0 +1,9 @@
+/home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/komgraf3.dir
+/home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/edit_cache.dir
+/home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/list_install_components.dir
+/home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install.dir
+/home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/local.dir
+/home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/strip.dir
+/home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/komgraf3_autogen_timestamp_deps.dir
+/home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/komgraf3_autogen.dir

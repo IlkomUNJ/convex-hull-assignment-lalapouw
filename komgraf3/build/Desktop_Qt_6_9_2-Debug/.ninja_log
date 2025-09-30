@@ -1,0 +1,27 @@
+# ninja log v6
+5	360	1759246135543036048	komgraf3_autogen/timestamp	e5d9566de616e96a
+4163	4692	1759246139354022420	komgraf3	693870b829ed7f77
+5	360	1759246135543036048	komgraf3_autogen/mocs_compilation.cpp	e5d9566de616e96a
+5	360	1759246135543036048	/home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/komgraf3_autogen/mocs_compilation.cpp	e5d9566de616e96a
+5	360	1759246135543036048	/home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/komgraf3_autogen/timestamp	e5d9566de616e96a
+361	3387	1759246135552036015	CMakeFiles/komgraf3.dir/main.cpp.o	80e869c5f953fb8a
+361	3319	1759246135552036015	CMakeFiles/komgraf3.dir/komgraf3_autogen/mocs_compilation.cpp.o	3de2a60a1144da71
+361	4163	1759246135552036015	CMakeFiles/komgraf3.dir/mainwindow.cpp.o	e6b7b8f0a012af45
+3	207	1759246318756477585	komgraf3_autogen/timestamp	e5d9566de616e96a
+3	207	1759246318756477585	komgraf3_autogen/mocs_compilation.cpp	e5d9566de616e96a
+3	207	1759246318756477585	/home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/komgraf3_autogen/timestamp	e5d9566de616e96a
+3	207	1759246318756477585	/home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/komgraf3_autogen/mocs_compilation.cpp	e5d9566de616e96a
+207	1919	1759246318761477572	CMakeFiles/komgraf3.dir/komgraf3_autogen/mocs_compilation.cpp.o	3de2a60a1144da71
+207	1922	1759246318761477572	CMakeFiles/komgraf3.dir/main.cpp.o	80e869c5f953fb8a
+207	1983	1759246318761477572	CMakeFiles/komgraf3.dir/mainwindow.cpp.o	e6b7b8f0a012af45
+207	2134	1759246318761477572	CMakeFiles/komgraf3.dir/canvas.cpp.o	f7c81a81a55d5ac7
+2134	2480	1759246320688472631	komgraf3	78fdd3d77d411454
+4	361	1759246626825867808	komgraf3_autogen/timestamp	e5d9566de616e96a
+4	361	1759246626825867808	komgraf3_autogen/mocs_compilation.cpp	e5d9566de616e96a
+4	361	1759246626825867808	/home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/komgraf3_autogen/timestamp	e5d9566de616e96a
+4	361	1759246626825867808	/home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/komgraf3_autogen/mocs_compilation.cpp	e5d9566de616e96a
+361	3027	1759246626834867795	CMakeFiles/komgraf3.dir/komgraf3_autogen/mocs_compilation.cpp.o	3de2a60a1144da71
+362	3035	1759246626834867795	CMakeFiles/komgraf3.dir/main.cpp.o	80e869c5f953fb8a
+362	3132	1759246626834867795	CMakeFiles/komgraf3.dir/mainwindow.cpp.o	e6b7b8f0a012af45
+363	3262	1759246626835867793	CMakeFiles/komgraf3.dir/canvas.cpp.o	f7c81a81a55d5ac7
+3262	3602	1759246629734863464	komgraf3	78fdd3d77d411454

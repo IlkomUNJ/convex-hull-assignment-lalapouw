@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_komgraf3_FILE /home/lalanayla/komgraf3/build/Desktop_Qt_6_9_2-Debug/komgraf3)
+set(__QT_DEPLOY_TARGET_komgraf3_TYPE EXECUTABLE)
